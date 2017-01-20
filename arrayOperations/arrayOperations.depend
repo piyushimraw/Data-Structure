@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472211685 source:c:\users\raaw\desktop\arrayoperations\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
